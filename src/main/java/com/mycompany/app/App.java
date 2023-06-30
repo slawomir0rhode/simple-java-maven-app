@@ -15,7 +15,7 @@ public class App {
     public String getMessage() {
         return MESSAGE;
     }
-    pulic String GetUser() {
+    public String GetUser() {
         String User = "slawo";
         String Password = "1234";
         return Password;

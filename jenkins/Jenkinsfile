@@ -17,6 +17,9 @@ pipeline {
                 snykSecurity(
                   snykInstallation: 'snyk@latest',
                   snykTokenId: 'organisation-snyk-api-token',
+                  monitorProjectOnBuild,
+                  snyk sbom,
+                    
                     --debug
                   // place other parameters here
                 )

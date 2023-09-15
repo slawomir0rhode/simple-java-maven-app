@@ -14,4 +14,4 @@ you'll be creating yourself during the tutorial and the `jenkins/scripts` subdir
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/https://github.com/slawomir0rhode/simple-java-maven-app/badge)](https://securityscorecards.dev/viewer/?uri=github.com/https://github.com/slawomir0rhode)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/https://github.com/slawomir0rhode/simple-java-maven-app)](https://securityscorecards.dev/viewer/?uri=github.com/https://github.com/slawomir0rhode)
